@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1507695231 source:c:\users\alailson\desktop\provaav22\circulo.cpp
+	"circulo.h"
+	<iostream>
+	"Ponto.h"
+	<cmath>
+
+1507695529 c:\users\alailson\desktop\provaav22\circulo.h
+	"figurageometrica.h"
+	"Ponto.h"
+
+1507695563 c:\users\alailson\desktop\provaav22\figurageometrica.h
+	"Screen.h"
+
+1507695493 c:\users\alailson\desktop\provaav22\screen.h
+	<vector>
+	<iostream>
+
+1507695442 c:\users\alailson\desktop\provaav22\ponto.h
+
+1507695290 source:c:\users\alailson\desktop\provaav22\figurageometrica.cpp
+	"figurageometrica.h"
+
+1507695050 source:c:\users\alailson\desktop\provaav22\interpretador.cpp
+	<fstream>
+	<cstdlib>
+	<string>
+	<sstream>
+	"reta.h"
+	"retangulo.h"
+	"circulo.h"
+	"Interpretador.h"
+
+1507695587 c:\users\alailson\desktop\provaav22\reta.h
+	"figurageometrica.h"
+	"Ponto.h"
+	"Screen.h"
+
+1507695608 c:\users\alailson\desktop\provaav22\retangulo.h
+	"figurageometrica.h"
+	"Ponto.h"
+
+1507695403 c:\users\alailson\desktop\provaav22\interpretador.h
+	<fstream>
+	<vector>
+	"figurageometrica.h"
+	<string>
+	<fstream>
+
+1507695737 source:c:\users\alailson\desktop\provaav22\main.cpp
+	<iostream>
+	<fstream>
+	"retangulo.h"
+	"figurageometrica.h"
+	"reta.h"
+	"circulo.h"
+	"Screen.h"
+	"Interpretador.h"
+
+1507695149 source:c:\users\alailson\desktop\provaav22\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1507695315 source:c:\users\alailson\desktop\provaav22\reta.cpp
+	"reta.h"
+	"Ponto.h"
+	"Screen.h"
+	<iostream>
+	<cmath>
+
+1507695343 source:c:\users\alailson\desktop\provaav22\retangulo.cpp
+	"retangulo.h"
+	<iostream>
+	"Ponto.h"
+	"reta.h"
+
+1507695204 source:c:\users\alailson\desktop\provaav22\screen.cpp
+	"Screen.h"
+	<vector>
+	<iostream>
+
